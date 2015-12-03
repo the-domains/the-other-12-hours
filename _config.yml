@@ -1,6 +1,6 @@
 name: The Other 12 Hours
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.99746
 typography_spectrum: 0.41787
 title: Outside of normal working hours
 cta:
@@ -22,8 +22,8 @@ color:
     - '#d7dadb'
     - '#2c3e50'
     - '#ffffff'
-  brandStrength: 0.625
+  brandStrength: 1
   lightness: 0.1450511331204325
-  saturation: 0.875
+  saturation: 0.9375
   rhythmicContrast: 0.13086883001960814
 purpose: []
