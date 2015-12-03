@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Outside of normal working hours]]></title>
         <description><![CDATA[Outside of normal working hours]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-other-12-hours/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Dec 2015 22:00:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 03 Dec 2015 22:05:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-other-12-hours/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Victory Journal | Joutes Nautiques]]></title>
+            <description><![CDATA[<article><h1>Victory Journal | Joutes Nautiques</h1><p>The Mediterranean town of Sète is the de facto capital of maritime jousting, a sporting tradition that dates back to the 15th century. Photographer Christopher Anderson infiltrated the boating knights to document them up close.</p><img src="http://victoryjournal.com/static/uploads/Jute_TB2013-09-26-17-53-05.jpg"></article>]]></description>
+            <link>http://victoryjournal.com/stories/joutes-nautiques</link>
+            <guid isPermaLink="false">838c8951-b2aa-43af-a502-d69210b2eccc</guid>
+            <pubDate>Thu, 03 Dec 2015 22:05:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Victory Journal | The Decision]]></title>
-            <description><![CDATA[<article><h1>Victory Journal | The Decision</h1><p>Thon Maker, the 7' 1" Sudanese-Australian center, has been honing his basketball skills in snowy Orangeville, Ontario-but with a promising future in the NBA all but guaranteed, his path is still uncertain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6dcfdda3149e2abf1d83e3db94014c48b3687d43.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Victory Journal | The Decision</h1><p>Thon Maker, the 7' 1" Sudanese-Australian center, has been honing his basketball skills in snowy Orangeville, Ontario-but with a promising future in the NBA all but guaranteed, his path is still uncertain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60cd4d64fa65de331d8ccc637809fccea2e60a6b.jpg"></article>]]></description>
             <link>http://victoryjournal.com/stories/thon-maker</link>
             <guid isPermaLink="false">77a29c3e-f046-4e5e-a8c5-2af8228815ce</guid>
             <pubDate>Thu, 03 Dec 2015 21:59:54 GMT</pubDate>
