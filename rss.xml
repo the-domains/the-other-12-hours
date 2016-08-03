@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Outside of normal working hours]]></title>
         <description><![CDATA[Outside of normal working hours]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-other-12-hours/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 13:32:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Aug 2016 13:37:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-other-12-hours/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1d26b9f-fd4c-4a5b-b231-07a16feb81a8.jpg">]]></description>
+            <link>https://thegrid.ai/the-other-12-hours/4ed974c3-2434-4bc9-9f52-5fe08277c4a7/index.html</link>
+            <guid isPermaLink="false">4ed974c3-2434-4bc9-9f52-5fe08277c4a7</guid>
+            <pubDate>Wed, 03 Aug 2016 13:36:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/220bbecc-5bc9-475b-baed-75f61fcd59bf.jpg">]]></description>
-            <link>undefinedkhao-yai/index.html</link>
+            <link>https://thegrid.ai/the-other-12-hours/khao-yai/index.html</link>
             <guid isPermaLink="false">42f88082-e1df-4d81-b39a-541f9299b2c7</guid>
             <pubDate>Wed, 03 Aug 2016 13:32:55 GMT</pubDate>
         </item>
